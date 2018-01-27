@@ -1,13 +1,13 @@
 var playlist = {
-  Tom Petty:'Runnin Down a Dream',
-  Eagles:'Hotel California'
-  Def Leppard:'Animal'};
+  [Tom Petty]: 'Runnin Down a Dream',
+  [Eagles]: 'Hotel California'
+  [Def Leppard]: 'Animal'
+};
 
-function updatePlaylist(playlist, artist, song){
+function updatePlaylist(playlist, artist, song) {
   playlist.Scorpions = 'Wind of Change';
 }
 
-function removeFromPlaylist(playlist, artist){
+function removeFromPlaylist(playlist, artist) {
   Delete playlist[artist];
 }
-
