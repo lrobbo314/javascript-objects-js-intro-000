@@ -1,7 +1,7 @@
 var playlist = {
-  [Tom Petty]: 'Runnin Down a Dream',
+  ['Tom Petty']: 'Runnin Down a Dream',
   [Eagles]: 'Hotel California',
-  [Def Leppard]: 'Animal'
+  ['Def Leppard']: 'Animal'
 };
 
 function updatePlaylist(playlist, artist, song) {
