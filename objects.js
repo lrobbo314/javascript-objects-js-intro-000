@@ -4,7 +4,7 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, artist, song) {
-  playlist.Scorpions = 'Wind of Change';
+  playlist['Phil Ochs']:"Here's to the State of Mississippi"
 }
 
 function removeFromPlaylist(playlist, artist) {
