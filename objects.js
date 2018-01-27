@@ -1,6 +1,6 @@
 var playlist = {
   [Tom Petty]: 'Runnin Down a Dream',
-  [Eagles]: 'Hotel California'
+  [Eagles]: 'Hotel California',
   [Def Leppard]: 'Animal'
 };
 
